@@ -1,0 +1,4 @@
+Found bugs:
+1. runner.py(18)
+    The ammount to be added to the total should be the dice value, not just +1.
+2. 
