@@ -1,0 +1,1 @@
+Part of the exercise was to fork a respsitory and subsequently make a pull request. I have made both of them, but I'm also linking the fork I created here: https://github.com/lucasbcasa/participants.git.
